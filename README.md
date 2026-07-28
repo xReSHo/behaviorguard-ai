@@ -69,12 +69,6 @@ npm run dev
 
 Then open the URL printed in the terminal (typically `http://localhost:5173`).
 
-**Default login**
-
-```
-Username: analyst
-Password: Analyst@123
-```
 
 On first launch the app seeds 100 employees and 5,000 log events automatically.
 You can upload your own CSV at any time from the **Upload Logs** page.
@@ -151,7 +145,7 @@ src/
 
 ## Screenshots
 
-_Add screenshots here after running the app locally._
+<img width="1899" height="902" alt="image" src="https://github.com/user-attachments/assets/cf9ad498-9659-4975-b055-c75977f5df37" />
 
 ## Future improvements
 
