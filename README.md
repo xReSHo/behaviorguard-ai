@@ -147,6 +147,13 @@ src/
 
 <img width="1899" height="902" alt="image" src="https://github.com/user-attachments/assets/cf9ad498-9659-4975-b055-c75977f5df37" />
 
+<img width="2538" height="1263" alt="image" src="https://github.com/user-attachments/assets/8ea19c64-e220-4cbe-b048-c28dd8dbd592" />
+
+<img width="2535" height="1253" alt="image" src="https://github.com/user-attachments/assets/01d86377-17f1-4fbe-808e-a7dde85ec2d1" />
+
+<img width="2536" height="1258" alt="image" src="https://github.com/user-attachments/assets/7d58f249-09df-4bec-be1b-a29ab836a4ed" />
+
+
 ## Future improvements
 
 - Server-side persistence and multi-analyst accounts.
